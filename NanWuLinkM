@@ -1,0 +1,6 @@
+vless://159a7966-0203-47ff-b81f-eecc2da503dd@kr.2023nanwu03.tk:52943?host=&path=%2Fplas&type=ws&encryption=none&security=tls&sni=kr.2023nanwu03.tk#KR-AWS
+vless://5d35d24d-8a2b-42c1-c4c5-449192e12100@sore.2023nanwu05.tk:58953?host=&path=%2Fplas&type=ws&encryption=none&security=tls&sni=sore.2023nanwu05.tk#SOR-GCP
+vless://719b0a05-a337-4db7-c5fc-aa351679daaa@hk.2023nanwu04.tk:52189?host=&path=%2Fplas&type=ws&encryption=none&security=tls&sni=hk.2023nanwu04.tk#HK-GCP
+vless://fe00d363-d9b4-4f68-87d7-ad93db5a27e8@sjp.2023nanwu05.tk:44003?host=&path=%2Fplas&type=ws&encryption=none&security=tls&sni=sjp.2023nanwu05.tk#SP-GCP
+vless://f6f3189a-6a54-41d5-ffeb-b770c209e2b3@sg.2023nanwu01.tk:46833?host=&path=%2FPLAY&type=ws&encryption=none&security=tls&sni=sg.2023nanwu01.tk#SG-OCI
+vless://f8fb821a-08ca-4fc3-bd0d-c1d156a590ad@ry.2023nanwu02.tk:58206?headerType=none&type=tcp&encryption=none#JP-SCG
